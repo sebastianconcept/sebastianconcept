@@ -1,4 +1,4 @@
-[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianconcept&show_icons=true&theme=slateorange)](https://github.com/sebastianconcept/github-readme-stats)
+[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianconcept&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/sebastianconcept/github-readme-stats)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastiansastre) 
 [![](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://twitter.com/sebastianconcpt)
